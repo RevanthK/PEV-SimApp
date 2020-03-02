@@ -24,7 +24,6 @@ class Sim_env:
 		for t in trips:
 			self.fleet.assign_task(t)
 		self.fleet.finishUp()
-
 		self.trips.extend(trips);
 		self.util = self.fleet.getUtilization()
 		self.emissions = self.fleet.getEmissions()
