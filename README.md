@@ -13,6 +13,5 @@ Simulation: https://www.media.mit.edu/projects/fleet-simulation/overview/
 
 1. Run ./Server/setup.sh
 2. ...
-3. Start server: python sim_serv.py
-4. Start Webapp: python -m SimpleHTTPServer
-5. Go to http://localhost:8000/map.html
+3. Start web server: python sim_serv.py
+5. Go to http://localhost:8233/map.html
