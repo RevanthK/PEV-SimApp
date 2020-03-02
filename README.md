@@ -1,8 +1,11 @@
 # PEV-SimApp
-Simulation App for Shared Autonomous Vehicle (SAV) Deployment 
+We have modified the source code from MIT's PEV-SimApp. This is simulation App for Shared Autonomous Vehicle (SAV) Deployment.
 
 
-What is a PEV?: https://www.media.mit.edu/projects/pev/overview/
+## What is a Persuasive Electric Veheicle (PEV)?
+PEV are lightweight, ride-sharing vehicles that help deliver both passengers and packages.
+
+see more: https://www.media.mit.edu/projects/pev/overview/
 
 Simulation: https://www.media.mit.edu/projects/fleet-simulation/overview/
 
