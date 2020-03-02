@@ -20,7 +20,6 @@ PORT = 8233
 
 class ServerHandler(SimpleHTTPServer.SimpleHTTPRequestHandler):
 
-
     def do_GET(self):
         logging.warning("======= GET STARTED =======")
         logging.warning(self.headers)
@@ -48,10 +47,7 @@ class ServerHandler(SimpleHTTPServer.SimpleHTTPRequestHandler):
 		print parcFreq
 		response = server.run_sim.Run(fleet_size, maxDist, parcFreq, 0, 28800)
 		print("test1")
-		#Socket is Closed causing error
-		#self.protocol_version = 'HTTP/1.1'
 		self.wfile.write(response)
-		#self.send_response('HTTP/1.1', response.encode(encoding='utf-8'))
 		print("test2")
 	else:
         	SimpleHTTPServer.SimpleHTTPRequestHandler.do_GET(self)

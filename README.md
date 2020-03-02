@@ -9,9 +9,11 @@ see more: https://www.media.mit.edu/projects/pev/overview/
 
 Simulation: https://www.media.mit.edu/projects/fleet-simulation/overview/
 
-## Instructions:
-
+## Setup:
 1. Run ./Server/setup.sh
-2. ...
-3. Start web server: python sim_serv.py
-5. Go to http://localhost:8233/map.html
+
+## Instructions:
+1. Start web server: python sim_serv.py
+2. Go to http://localhost:8233/map.html
+
+Notes: Simulation works on Safari but not Chrome
