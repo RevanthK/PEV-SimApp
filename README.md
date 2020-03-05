@@ -17,4 +17,4 @@ Simulation: https://www.media.mit.edu/projects/fleet-simulation/overview/
 1. Start web server: python sim_serv.py
 2. Go to http://localhost:8233/map.html
 
-Note: Simulation works on Safari but not Chrome
+Note: Simulation works on Firefox and Edge but not Chrome, Safari,
