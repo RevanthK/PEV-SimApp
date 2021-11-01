@@ -1,5 +1,5 @@
 # PEV-SimApp
-I have modified the source code from MIT's PEV-SimApp. This is a simulation of Shared Autonomous Vehicle (SAV) Deployment. I also analyzed the efficacy of using PEV's in NY as well as the optimal charging stations based on historal taxi data. To learn more about the project see this presentation: https://docs.google.com/presentation/d/1BphcKWE_Wd2vqIN4zsmEgfAA5DX3Dy8SrJm31aZcW9o/edit?usp=sharing
+I have modified the source code from MIT's PEV-SimApp. This is a simulation of Shared Autonomous Vehicle (SAV) Deployment. I also analyzed the efficacy of using PEV's in NY as well as the optimal charging stations based on historical taxi data. To learn more about the project see this presentation: https://docs.google.com/presentation/d/1BphcKWE_Wd2vqIN4zsmEgfAA5DX3Dy8SrJm31aZcW9o/edit?usp=sharing
 
 Video of simulation: https://drive.google.com/file/d/1SGoyZJBugSFIsPEBBSeXDTQzRPPzV55y/view?usp=sharing
 
